@@ -13,3 +13,4 @@
 
 ## Others
 - [Link](https://osxlatitude.com/forums/topic/8506-dell-latitude-inspiron-precision-vostro-xps-clover-guide)
+- [MacEFI](https://macefi.com/)
