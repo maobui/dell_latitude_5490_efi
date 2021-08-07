@@ -25,6 +25,10 @@
   - Serial number/mac address ... [here](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-gensmbios)
   - WiFi : 
     - Use external USB WiFi -> Wirless USB Adapter above.
-    - Use internal WiFi -> [here](https://openintelwireless.github.io/itlwm/Installation.html#itlwm)
+    - Use internal WiFi -> [here](https://openintelwireless.github.io/itlwm/Installation.html#itlwm).
+    - Sleep -> [here](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html#preparations).
+      - ActivateHpetSupport = true in Config.plist (UEFI tab).
+      - [Recommended](https://dortania.github.io/OpenCore-Post-Install/usb/misc/keyboard.html#method-3-configuring-darkwake).
+      - [Optional](https://dortania.github.io/OpenCore-Post-Install/usb/misc/instant-wake.html).
 ## Others
   - [Link](https://www.hackintosh-forum.de/forum/thread/53016-dell-latitude-5490/)
