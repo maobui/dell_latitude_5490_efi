@@ -9,3 +9,7 @@
 
 ## Optional
   Clover for Dell latitude 5590.
+
+
+## Others
+- [Link](https://osxlatitude.com/forums/topic/8506-dell-latitude-inspiron-precision-vostro-xps-clover-guide)
