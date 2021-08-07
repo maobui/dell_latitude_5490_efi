@@ -33,3 +33,4 @@
       - [Optional](https://dortania.github.io/OpenCore-Post-Install/usb/misc/instant-wake.html).
 ## Others
   - [Link](https://www.hackintosh-forum.de/forum/thread/53016-dell-latitude-5490/)
+  - [Tool check OpenCore](https://opencore.slowgeek.com/)
