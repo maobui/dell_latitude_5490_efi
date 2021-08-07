@@ -1,5 +1,6 @@
-# Dell Latitude 5490 Clover
+# Dell Latitude 5490 EFI
 
+# Clover
 ## Support for macOs versions:
   - Version 10.13: "High Sierra"
   - Version 10.14: "Mojave"
@@ -10,7 +11,15 @@
 ## Optional
   Clover for Dell latitude 5590.
 
-
 ## Others
 - [Link](https://osxlatitude.com/forums/topic/8506-dell-latitude-inspiron-precision-vostro-xps-clover-guide)
 - [MacEFI](https://macefi.com/)
+
+
+#OpenCore
+
+## Support for macOs versions:
+ - Version 11: "Big Sur"
+
+## Others
+  - [Link](https://www.hackintosh-forum.de/forum/thread/53016-dell-latitude-5490/)
