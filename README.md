@@ -23,8 +23,8 @@
 
 ## Fix issues
   - Serial number/mac address ... [here](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-gensmbios)
-  - wifi : 
-    - Use external USB WiFi -> Wirless USB Adapter.
+  - WiFi : 
+    - Use external USB WiFi -> Wirless USB Adapter above.
     - Use internal WiFi -> [here](https://openintelwireless.github.io/itlwm/Installation.html#itlwm)
 ## Others
   - [Link](https://www.hackintosh-forum.de/forum/thread/53016-dell-latitude-5490/)
