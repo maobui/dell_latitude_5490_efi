@@ -16,7 +16,7 @@
 - [MacEFI](https://macefi.com/)
 
 
-#OpenCore
+# OpenCore
 
 ## Support for macOs versions:
  - Version 11: "Big Sur"
