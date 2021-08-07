@@ -21,5 +21,7 @@
 ## Support for macOs versions:
  - Version 11: "Big Sur"
 
+## Fix issues
+  - Serial number/mac address ... [here](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-gensmbios)
 ## Others
   - [Link](https://www.hackintosh-forum.de/forum/thread/53016-dell-latitude-5490/)
