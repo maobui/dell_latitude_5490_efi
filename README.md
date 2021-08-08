@@ -30,6 +30,7 @@
       - ActivateHpetSupport = true in Config.plist (UEFI tab).
       - [Recommended](https://dortania.github.io/OpenCore-Post-Install/usb/misc/keyboard.html#method-3-configuring-darkwake).
       - Turn off (Wake for Ethernet Network access and Enable Power Nap) in Enegy saver settings. And ```sudo pmset -a standby 0``` [here](https://hackintosher.com/forums/thread/improving-sleep-on-a-hackintosh-wakeup-freezes-black-screens.486/).
+      - [Coffee Lake systems failing to wake](https://dortania.github.io/OpenCore-Install-Guide/troubleshooting/extended/post-issues.html#coffee-lake-systems-failing-to-wake).
       - [Optional](https://dortania.github.io/OpenCore-Post-Install/usb/misc/instant-wake.html).
 ## Others
   - [Link](https://www.hackintosh-forum.de/forum/thread/53016-dell-latitude-5490/)
