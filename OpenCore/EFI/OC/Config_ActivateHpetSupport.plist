@@ -1378,7 +1378,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 darkwake=0 alcid=21</string>
+				<string>-v keepsyms=1 debug=0x100 darkwake=514 alcid=21 swd_panic=1</string>
 				<key>csr-active-config</key>
 				<data>
 				5wMAAA==
@@ -1612,6 +1612,8 @@
 		</dict>
 		<key>Quirks</key>
 		<dict>
+			<key>ActivateHpetSupport</key>
+			<true/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>IgnoreInvalidFlexRatio</key>
