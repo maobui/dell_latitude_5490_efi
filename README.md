@@ -37,6 +37,7 @@
       - [Show Config.plist](https://www.youtube.com/watch?v=BAGp_QfFGf4){:target="_blank"}.
   ## Others
   - [Link](https://www.hackintosh-forum.de/forum/thread/53016-dell-latitude-5490/){target="_blank"}.
-  - [Tool check OpenCore](https://opencore.slowgeek.com/){target="\_blank"}.
+  - [Tool check OpenCore](https://opencore.slowgeek.com/){:target="_blank" rel="noopener"}.
   - <a href="http://example.com/" target="_blank">Test link</a>
   - %md <a href="https://google.com" target="_blank">google link</a>
+  - <a href="https://google.com" target="_blank" rel="noopener">external link</a>
