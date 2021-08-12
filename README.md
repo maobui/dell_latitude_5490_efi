@@ -36,6 +36,7 @@
       - [Sample fix wifi on Big Sur](https://www.youtube.com/watch?v=bp06YxnKNTk){:target="_blank"}.
       - [Show Config.plist](https://www.youtube.com/watch?v=BAGp_QfFGf4){:target="_blank"}.
   ## Others
-  - [Link](https://www.hackintosh-forum.de/forum/thread/53016-dell-latitude-5490/){:target="_blank"}.
-  - [Tool check OpenCore](https://opencore.slowgeek.com/){:target="_blank"}.
+  - [Link](https://www.hackintosh-forum.de/forum/thread/53016-dell-latitude-5490/){target="_blank"}.
+  - [Tool check OpenCore](https://opencore.slowgeek.com/){target="\_blank"}.
   - <a href="http://example.com/" target="_blank">Test link</a>
+  - %md <a href="https://google.com" target="_blank">google link</a>
