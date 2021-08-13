@@ -810,7 +810,7 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 		<key>MLB</key>
-		<string>C02816306GUJH4RFB</string>
+		<string>xxx</string>
 		<key>ROM</key>
 		<data>
 		/tdL3xSy
@@ -861,9 +861,9 @@
 		<key>ProductName-Comment</key>
 		<string>Using Haswell MacBookAir6,2 until Clover has support for KabyLake identifiers</string>
 		<key>SerialNumber</key>
-		<string>C02XXNZJJHCD</string>
+		<string>xxx</string>
 		<key>SmUUID</key>
-		<string>0351D634-A6FD-41EC-8EAA-10075666E8E9</string>
+		<string>xxx</string>
 		<key>Trust</key>
 		<true/>
 		<key>Version</key>
@@ -874,7 +874,7 @@
 		<key>#BacklightLevel</key>
 		<integer>0</integer>
 		<key>CustomUUID</key>
-		<string>024AC7B0-8189-4F90-9A41-58A831E40450</string>
+		<string>xxx</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 		<key>InjectSystemID</key>
