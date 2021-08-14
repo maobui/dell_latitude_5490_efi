@@ -40,6 +40,22 @@
   - [Link](https://www.hackintosh-forum.de/forum/thread/53016-dell-latitude-5490/).
   - [Tool check OpenCore](https://opencore.slowgeek.com/).
 
+# System information
+
+## Configuration
+
+| Specifications      | Details                                          |
+| :---                |:---                                              |
+| Computer model      | Dell Latitude 5490                               |
+| Processor           | Intel Core i5-8350U Processor @ 1.8 GHz          |
+| Memory              | 16 GB DDR4 2400 MHz                              |
+| Hard Disk           | SSD 256                                          |
+| Integrated Graphics | Intel(R) UHD Graphics 620                        |
+| Screen              | Display @ 1920 x 1080 (13.9 inch)                |
+| Sound Card          | Realtek ALC256                                   |
+| Wireless Card       | Intel Dual Band Wireless-AC 8265/8275            |
+| Bluetooth Card      | Intel Bluetooth 8265/8275                        |
+
   # Screens
 
   ![System Overview](./images/sys.png)
