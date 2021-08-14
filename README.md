@@ -39,4 +39,18 @@
   ## Others
   - [Link](https://www.hackintosh-forum.de/forum/thread/53016-dell-latitude-5490/).
   - [Tool check OpenCore](https://opencore.slowgeek.com/).
+
+  # Screens
+
+  ![System Overview](./images/sys.png)
+
+  ![System Preferences](./images/sys_pref.png)
+
+  ![Sytems Bar](./images/sys_bar.png)
+
+  ![Bluetooth](./images/bluetooth.png)
+
+  ![Graphics](./images/graphics.png)
+
+  ![Wifi](./images/wifi.png)
   
