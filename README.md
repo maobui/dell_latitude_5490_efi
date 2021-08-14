@@ -21,6 +21,8 @@
 ## Support for macOs versions:
  - Version 11: "Big Sur"
 
+## Build Config.plist
+ - [Link](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html)
 ## Fix issues
   - Serial number/mac address ... [here](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-gensmbios).
   - WiFi : 
