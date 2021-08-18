@@ -36,6 +36,8 @@
   - Video how to patch PCI devices to correct Device Properties in Config.plist
       - [Sample fix wifi on Big Sur](https://www.youtube.com/watch?v=bp06YxnKNTk).
       - [Show Config.plist](https://www.youtube.com/watch?v=BAGp_QfFGf4).
+  - Cannot update to newer versions of Big Sur
+      - [Link](https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#cannot-update-to-newer-versions-of-big-sur).
   ## Others
   - [Link](https://www.hackintosh-forum.de/forum/thread/53016-dell-latitude-5490/).
   - [Tool check OpenCore](https://opencore.slowgeek.com/).
