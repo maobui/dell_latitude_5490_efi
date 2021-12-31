@@ -38,6 +38,9 @@
       - [Show Config.plist](https://www.youtube.com/watch?v=BAGp_QfFGf4).
   - Cannot update to newer versions of Big Sur
       - [Link](https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#cannot-update-to-newer-versions-of-big-sur).
+  - Cannot upgrade OS:
+      - Enable csr-active-config for upgrade only, after upgrade -> disbale it.
+      - [Link](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#nvram).
   ## Others
   - [Link](https://www.hackintosh-forum.de/forum/thread/53016-dell-latitude-5490/).
   - [Tool check OpenCore](https://opencore.slowgeek.com/).
